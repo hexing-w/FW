@@ -1,10 +1,5 @@
 <?php
-/**
- *
- * User: zengfeng (zengfeng@supernano.com)
- * Date: 2016/10/21 10:09
- *
- */
+
 namespace hx\Helper;
 
 use hx\Helper\MConfig;
