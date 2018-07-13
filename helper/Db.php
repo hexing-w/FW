@@ -1,6 +1,6 @@
 <?php
 
-namespace hx\Helper;
+namespace FW\Helper;
 
 class Db {
     private static $pdo = null;

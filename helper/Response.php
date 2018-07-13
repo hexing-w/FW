@@ -1,8 +1,8 @@
 <?php
 
-namespace hx\Helper;
+namespace FW\Helper;
 
-use hx\Lib\Framework\UrlManager;
+use FW\Lib\Framework\UrlManager;
 
 class Response {
 

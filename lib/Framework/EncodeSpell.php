@@ -1,6 +1,6 @@
 <?php
 
-namespace hx\Lib\Framework;
+namespace FW\Lib\Framework;
 
 
 class EncodeSpell {

@@ -1,10 +1,10 @@
 <?php
 
-namespace hx\Lib\Framework;
+namespace FW\Lib\Framework;
 
-use hx\Helper\Log;
-use hx\Helper\Response;
-use hx\Model\Redis\UserRedis;
+use FW\Helper\Log;
+use FW\Helper\Response;
+use FW\Model\Redis\UserRedis;
 
 class BaseController
 {

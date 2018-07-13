@@ -1,8 +1,8 @@
 <?php
 
-namespace hx\Model\Mysql;
+namespace FW\Model\Mysql;
 
-use hx\Helper\Db;
+use FW\Helper\Db;
 
 class UserMysql
 {

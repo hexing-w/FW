@@ -1,8 +1,8 @@
 <?php
 
-namespace hx\Lib\Framework;
+namespace FW\Lib\Framework;
 
-use hx\Helper\MConfig;
+use FW\Helper\MConfig;
 
 class UrlManager {
 

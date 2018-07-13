@@ -1,8 +1,8 @@
 <?php
 
-namespace hx\Helper;
+namespace FW\Helper;
 
-use hx\Helper\MConfig;
+use FW\Helper\MConfig;
 
 class MipRedis
 {
