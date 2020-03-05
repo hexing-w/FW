@@ -5,7 +5,7 @@ use Fw\Lib\Framework\UrlManager;
 
 class Loader{
 
-	public static $aliases = ['@FW' => __DIR__];
+	public static $aliases = ['@Fw' => __DIR__];
 
 	private static $container;
 
