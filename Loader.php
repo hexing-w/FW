@@ -1,5 +1,5 @@
 <?php
-namespace Prizeclaw;
+namespace Fw;
 
 use Fw\Lib\Framework\UrlManager;
 
